@@ -1,0 +1,187 @@
+body{
+    background-image: url(background-essss.5.png);      
+}
+main{
+    background-color: rgba(0, 0, 0, 0.493);
+    display: inline-block;
+    position: relative;
+    left: 450px;
+    height: 840px;
+    width: 1100px;
+    margin-top: 30px;
+    border-radius: 2%;   
+}
+.logo{
+    width: 250px;
+    position: relative;
+    left: 385px;
+    top: 95px;   
+}
+.titolo{
+    font-size: 40px;
+    color: rgb(1, 201, 1);
+    display: inline-block;
+    position: relative;
+    top: 130px;
+    font-family: Arial;  
+}
+.pulsanti_interagibili{
+    display: inline-block;
+    background-color: limegreen;
+    position: relative;
+    top: 105px;
+    padding: 10px;
+    width: 400px;
+    left: 300px;
+}
+.riga_1{
+    color: white;
+    display: inline-block;
+    position: relative;
+    top: 115px;
+    left: 50px;
+    font-size: 15px;
+    font-family: Arial;
+}
+.riga_2{
+    color: white;
+    display: inline-block;
+    position: relative;
+    top: 300px;
+    right: 200px;
+    font-family: Arial;
+}
+.riga_3{
+    color: white;
+    display: inline-block;
+    position: relative;
+    top: 500px;
+    right: 425px;
+    margin: none;
+    font-family: Arial;
+}
+.mon_gin_1{
+    display: inline-block;
+    position: relative;
+}
+.mon_gin_2{
+    display: inline-block;
+    position: relative;
+    top: 25px;
+    left: -220px;
+}
+.mon_gin_3{
+    display: inline-block;
+    position: relative;
+    top: 45px;
+    left: -490px;
+}
+.mon_mik_1{
+    display: inline-block;
+    position: relative;
+    top: -100px;
+    left: 250px;
+}
+.mon_mik_2{
+    display: inline-block;
+    position: relative;
+    top: -75px;
+    left: 15px;
+}
+.mon_mik_3{
+    display: inline-block;
+    position: relative;
+    left: -255px;
+    top: -55px;
+
+
+}
+.mon_fed_1{
+    display: inline-block;
+    position: relative;
+    top: -220px;
+    left: 470px;
+}
+.mon_fed_2{
+    display: inline-block;
+    position: relative;
+    top: -195px;
+    left: 220px;
+}
+.mon_fed_3{
+    display: inline-block;
+    position: relative;
+    top: -175px;
+    left: -35px;
+}
+.stat_carica_1{
+    display: inline-block;
+    position: relative;
+    background-color: orange;
+    width: 300px;
+    height: 30px;
+    top: 65px;
+    left: -555px;
+    border-radius: 5%;
+}
+.stat_carica_2{
+    display: inline-block;
+    position: relative;
+    display: inline-block;
+    position: relative;
+    background-color: limegreen;
+    width: 450px;
+    height: 30px;
+    border-radius: 5%;
+    top: 160px;
+    left: 30px;
+}
+.stat_carica_3{
+    display: inline-block;
+    position: relative;
+    background-color: rgb(205, 50, 50);
+    width: 175px;
+    height: 30px;
+    border-radius: 5%;
+    top: 305px;
+    left: -430px;
+}
+.ceckbox_1{
+    display: inline-block;
+    position: relative;
+    top: -75px;
+    left: -605px;
+}
+.ceckbox_2{
+    display: inline-block;
+    position: relative;
+    left: -630px;
+    top: 75px;
+}
+.ceckbox_3{
+    display: inline-block;
+    position: relative;
+    left: -660px;
+    top: 225px;
+}
+.freccia_1{
+    display: inline-block;
+    position: relative;
+    color: white;
+    left: -675px;
+    top: -50px;
+}
+.freccia_2{
+    display: inline-block;
+    position: relative;
+    color: white;
+    left: -693px;
+    top: 100px;
+}
+.freccia_3{
+    display: inline-block;
+    position: relative;
+    color: white;
+    left: -715px;
+    top: 245px;
+}
